@@ -477,8 +477,8 @@ HTML_TEMPLATE = '''
             <div class="logo">
                 <i class="fas fa-mobile-alt"></i>
             </div>
-            <h1>Mobile Tracker Pro</h1>
-            <p class="subtitle">Powered by ABBAS</p>
+            <h1>info</h1>
+            <p class="subtitle"></p>
         </header>
 
         <main>
@@ -529,7 +529,7 @@ HTML_TEMPLATE = '''
 
         <footer class="footer">
             <p>© 2025 Obito <a href="#"></a></p>
-            <p>Join our Telegram: <a href="#">@abbas_tech_india</a></p>
+            <p>Join our Telegram: <a href="#"></a></p>
         </footer>
     </div>
 
