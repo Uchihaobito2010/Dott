@@ -3,7 +3,6 @@ import requests
 
 app = Flask(__name__)
 
-# code by abbas
 HTML_TEMPLATE = '''
 <!DOCTYPE html>
 <html lang="en">
@@ -479,7 +478,7 @@ HTML_TEMPLATE = '''
                 <i class="fas fa-mobile-alt"></i>
             </div>
             <h1>Mobile Tracker Pro</h1>
-            <p class="subtitle">Powered by ABBAS</p>
+            <p class="subtitle">Powered by Paras</p>
         </header>
 
         <main>
@@ -529,7 +528,7 @@ HTML_TEMPLATE = '''
         </main>
 
         <footer class="footer">
-            <p>© 2025 Mobile Tracker Pro | Developed by <a href="#">ABBAS</a></p>
+            <p>© 2025 Numtoinfo <a href="#">Obito</a></p>
             <p>Join our Telegram: <a href="#">@abbas_tech_india</a></p>
         </footer>
     </div>
@@ -635,9 +634,7 @@ HTML_TEMPLATE = '''
 • 🔢 User ID: ${data.id || "N/A"}
 
 ──────────────────────────────
-
-💻 Bot by ABBAS
-📱 Join: @abbas_tech_india`;
+ Join: @ObitoStuffs`;
 
             document.getElementById("resultBody").innerText = resultText;
             document.getElementById("resultsContainer").style.display = "block";
@@ -802,6 +799,3 @@ def track():
 # Pydroid only
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8080)
-#leaked by abbas 
-
-# join @abbas_tech_india 
