@@ -477,7 +477,7 @@ HTML_TEMPLATE = '''
             <div class="logo">
                 <i class="fas fa-mobile-alt"></i>
             </div>
-            <h1>Mobile Tracker Pro</h1>
+            <h1>Number to info</h1>
             <p class="subtitle">Powered by Paras</p>
         </header>
 
@@ -529,7 +529,7 @@ HTML_TEMPLATE = '''
 
         <footer class="footer">
             <p>© 2025 Numtoinfo <a href="#">Obito</a></p>
-            <p>Join our Telegram: <a href="#"></a></p>
+            <p> <a href="#"></a></p>
         </footer>
     </div>
 
