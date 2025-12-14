@@ -529,7 +529,7 @@ HTML_TEMPLATE = '''
 
         <footer class="footer">
             <p>© 2025 Numtoinfo <a href="#">Obito</a></p>
-            <p>Join our Telegram: <a href="#">@abbas_tech_india</a></p>
+            <p>Join our Telegram: <a href="#"></a></p>
         </footer>
     </div>
 
