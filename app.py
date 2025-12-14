@@ -528,8 +528,8 @@ HTML_TEMPLATE = '''
         </main>
 
         <footer class="footer">
-            <p>© 2025 Obito <a href="#"></a></p>
-            <p>Join our Telegram: <a href="#"></a></p>
+            <p>© 2025 Obito / Paras <a href="#"></a></p>
+            <p><a href="#"></a></p>
         </footer>
     </div>
 
@@ -635,8 +635,6 @@ HTML_TEMPLATE = '''
 
 ──────────────────────────────
 
-💻 Bot by ABBAS
-📱 Join: @abbas_tech_india`;
 
             document.getElementById("resultBody").innerText = resultText;
             document.getElementById("resultsContainer").style.display = "block";
