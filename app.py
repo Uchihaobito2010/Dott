@@ -777,7 +777,7 @@ def track():
         return jsonify({"success": False, "message": "Invalid mobile number"})
 
     try:
-        api_url = f"https://neonosint.onrender.com/number-to-info?apikey=cSSohzIQeSPMmSogyHM9ENMpHifNhOg5&number={n}"
+        api_url = f"https://rushvx.tiiny.io/?key=RushVx&number={n}"
         response = requests.get(api_url, timeout=15)
         api = response.json()
 
